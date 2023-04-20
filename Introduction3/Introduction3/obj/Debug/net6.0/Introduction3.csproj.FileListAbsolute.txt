@@ -1,0 +1,15 @@
+C:\Users\Workspace\Desktop\C#\Introduction3\Introduction3\bin\Debug\net6.0\Introduction3.exe
+C:\Users\Workspace\Desktop\C#\Introduction3\Introduction3\bin\Debug\net6.0\Introduction3.deps.json
+C:\Users\Workspace\Desktop\C#\Introduction3\Introduction3\bin\Debug\net6.0\Introduction3.runtimeconfig.json
+C:\Users\Workspace\Desktop\C#\Introduction3\Introduction3\bin\Debug\net6.0\Introduction3.dll
+C:\Users\Workspace\Desktop\C#\Introduction3\Introduction3\bin\Debug\net6.0\Introduction3.pdb
+C:\Users\Workspace\Desktop\C#\Introduction3\Introduction3\obj\Debug\net6.0\Introduction3.csproj.AssemblyReference.cache
+C:\Users\Workspace\Desktop\C#\Introduction3\Introduction3\obj\Debug\net6.0\Introduction3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workspace\Desktop\C#\Introduction3\Introduction3\obj\Debug\net6.0\Introduction3.AssemblyInfoInputs.cache
+C:\Users\Workspace\Desktop\C#\Introduction3\Introduction3\obj\Debug\net6.0\Introduction3.AssemblyInfo.cs
+C:\Users\Workspace\Desktop\C#\Introduction3\Introduction3\obj\Debug\net6.0\Introduction3.csproj.CoreCompileInputs.cache
+C:\Users\Workspace\Desktop\C#\Introduction3\Introduction3\obj\Debug\net6.0\Introduction3.dll
+C:\Users\Workspace\Desktop\C#\Introduction3\Introduction3\obj\Debug\net6.0\refint\Introduction3.dll
+C:\Users\Workspace\Desktop\C#\Introduction3\Introduction3\obj\Debug\net6.0\Introduction3.pdb
+C:\Users\Workspace\Desktop\C#\Introduction3\Introduction3\obj\Debug\net6.0\Introduction3.genruntimeconfig.cache
+C:\Users\Workspace\Desktop\C#\Introduction3\Introduction3\obj\Debug\net6.0\ref\Introduction3.dll

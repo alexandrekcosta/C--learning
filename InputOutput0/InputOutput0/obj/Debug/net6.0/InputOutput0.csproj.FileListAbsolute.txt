@@ -1,0 +1,15 @@
+C:\Users\Workspace\Desktop\C#\InputOutput0\InputOutput0\bin\Debug\net6.0\InputOutput0.exe
+C:\Users\Workspace\Desktop\C#\InputOutput0\InputOutput0\bin\Debug\net6.0\InputOutput0.deps.json
+C:\Users\Workspace\Desktop\C#\InputOutput0\InputOutput0\bin\Debug\net6.0\InputOutput0.runtimeconfig.json
+C:\Users\Workspace\Desktop\C#\InputOutput0\InputOutput0\bin\Debug\net6.0\InputOutput0.dll
+C:\Users\Workspace\Desktop\C#\InputOutput0\InputOutput0\bin\Debug\net6.0\InputOutput0.pdb
+C:\Users\Workspace\Desktop\C#\InputOutput0\InputOutput0\obj\Debug\net6.0\InputOutput0.csproj.AssemblyReference.cache
+C:\Users\Workspace\Desktop\C#\InputOutput0\InputOutput0\obj\Debug\net6.0\InputOutput0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workspace\Desktop\C#\InputOutput0\InputOutput0\obj\Debug\net6.0\InputOutput0.AssemblyInfoInputs.cache
+C:\Users\Workspace\Desktop\C#\InputOutput0\InputOutput0\obj\Debug\net6.0\InputOutput0.AssemblyInfo.cs
+C:\Users\Workspace\Desktop\C#\InputOutput0\InputOutput0\obj\Debug\net6.0\InputOutput0.csproj.CoreCompileInputs.cache
+C:\Users\Workspace\Desktop\C#\InputOutput0\InputOutput0\obj\Debug\net6.0\InputOutput0.dll
+C:\Users\Workspace\Desktop\C#\InputOutput0\InputOutput0\obj\Debug\net6.0\refint\InputOutput0.dll
+C:\Users\Workspace\Desktop\C#\InputOutput0\InputOutput0\obj\Debug\net6.0\InputOutput0.pdb
+C:\Users\Workspace\Desktop\C#\InputOutput0\InputOutput0\obj\Debug\net6.0\InputOutput0.genruntimeconfig.cache
+C:\Users\Workspace\Desktop\C#\InputOutput0\InputOutput0\obj\Debug\net6.0\ref\InputOutput0.dll

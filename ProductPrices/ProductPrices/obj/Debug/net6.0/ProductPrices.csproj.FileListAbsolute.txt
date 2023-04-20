@@ -1,0 +1,15 @@
+C:\Users\Workspace\Desktop\C#\ProductPrices\ProductPrices\bin\Debug\net6.0\ProductPrices.exe
+C:\Users\Workspace\Desktop\C#\ProductPrices\ProductPrices\bin\Debug\net6.0\ProductPrices.deps.json
+C:\Users\Workspace\Desktop\C#\ProductPrices\ProductPrices\bin\Debug\net6.0\ProductPrices.runtimeconfig.json
+C:\Users\Workspace\Desktop\C#\ProductPrices\ProductPrices\bin\Debug\net6.0\ProductPrices.dll
+C:\Users\Workspace\Desktop\C#\ProductPrices\ProductPrices\bin\Debug\net6.0\ProductPrices.pdb
+C:\Users\Workspace\Desktop\C#\ProductPrices\ProductPrices\obj\Debug\net6.0\ProductPrices.csproj.AssemblyReference.cache
+C:\Users\Workspace\Desktop\C#\ProductPrices\ProductPrices\obj\Debug\net6.0\ProductPrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workspace\Desktop\C#\ProductPrices\ProductPrices\obj\Debug\net6.0\ProductPrices.AssemblyInfoInputs.cache
+C:\Users\Workspace\Desktop\C#\ProductPrices\ProductPrices\obj\Debug\net6.0\ProductPrices.AssemblyInfo.cs
+C:\Users\Workspace\Desktop\C#\ProductPrices\ProductPrices\obj\Debug\net6.0\ProductPrices.csproj.CoreCompileInputs.cache
+C:\Users\Workspace\Desktop\C#\ProductPrices\ProductPrices\obj\Debug\net6.0\ProductPrices.dll
+C:\Users\Workspace\Desktop\C#\ProductPrices\ProductPrices\obj\Debug\net6.0\refint\ProductPrices.dll
+C:\Users\Workspace\Desktop\C#\ProductPrices\ProductPrices\obj\Debug\net6.0\ProductPrices.pdb
+C:\Users\Workspace\Desktop\C#\ProductPrices\ProductPrices\obj\Debug\net6.0\ProductPrices.genruntimeconfig.cache
+C:\Users\Workspace\Desktop\C#\ProductPrices\ProductPrices\obj\Debug\net6.0\ref\ProductPrices.dll

@@ -1,0 +1,15 @@
+C:\Users\Workspace\Desktop\C#\Sallary\Sallary\bin\Debug\net6.0\Sallary.exe
+C:\Users\Workspace\Desktop\C#\Sallary\Sallary\bin\Debug\net6.0\Sallary.deps.json
+C:\Users\Workspace\Desktop\C#\Sallary\Sallary\bin\Debug\net6.0\Sallary.runtimeconfig.json
+C:\Users\Workspace\Desktop\C#\Sallary\Sallary\bin\Debug\net6.0\Sallary.dll
+C:\Users\Workspace\Desktop\C#\Sallary\Sallary\bin\Debug\net6.0\Sallary.pdb
+C:\Users\Workspace\Desktop\C#\Sallary\Sallary\obj\Debug\net6.0\Sallary.csproj.AssemblyReference.cache
+C:\Users\Workspace\Desktop\C#\Sallary\Sallary\obj\Debug\net6.0\Sallary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workspace\Desktop\C#\Sallary\Sallary\obj\Debug\net6.0\Sallary.AssemblyInfoInputs.cache
+C:\Users\Workspace\Desktop\C#\Sallary\Sallary\obj\Debug\net6.0\Sallary.AssemblyInfo.cs
+C:\Users\Workspace\Desktop\C#\Sallary\Sallary\obj\Debug\net6.0\Sallary.csproj.CoreCompileInputs.cache
+C:\Users\Workspace\Desktop\C#\Sallary\Sallary\obj\Debug\net6.0\Sallary.dll
+C:\Users\Workspace\Desktop\C#\Sallary\Sallary\obj\Debug\net6.0\refint\Sallary.dll
+C:\Users\Workspace\Desktop\C#\Sallary\Sallary\obj\Debug\net6.0\Sallary.pdb
+C:\Users\Workspace\Desktop\C#\Sallary\Sallary\obj\Debug\net6.0\Sallary.genruntimeconfig.cache
+C:\Users\Workspace\Desktop\C#\Sallary\Sallary\obj\Debug\net6.0\ref\Sallary.dll

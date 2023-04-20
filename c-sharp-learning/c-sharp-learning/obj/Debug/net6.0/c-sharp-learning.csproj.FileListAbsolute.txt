@@ -1,0 +1,15 @@
+C:\Users\Workspace\Desktop\C#\c-sharp-learning\c-sharp-learning\bin\Debug\net6.0\c-sharp-learning.exe
+C:\Users\Workspace\Desktop\C#\c-sharp-learning\c-sharp-learning\bin\Debug\net6.0\c-sharp-learning.deps.json
+C:\Users\Workspace\Desktop\C#\c-sharp-learning\c-sharp-learning\bin\Debug\net6.0\c-sharp-learning.runtimeconfig.json
+C:\Users\Workspace\Desktop\C#\c-sharp-learning\c-sharp-learning\bin\Debug\net6.0\c-sharp-learning.dll
+C:\Users\Workspace\Desktop\C#\c-sharp-learning\c-sharp-learning\bin\Debug\net6.0\c-sharp-learning.pdb
+C:\Users\Workspace\Desktop\C#\c-sharp-learning\c-sharp-learning\obj\Debug\net6.0\c-sharp-learning.csproj.AssemblyReference.cache
+C:\Users\Workspace\Desktop\C#\c-sharp-learning\c-sharp-learning\obj\Debug\net6.0\c-sharp-learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workspace\Desktop\C#\c-sharp-learning\c-sharp-learning\obj\Debug\net6.0\c-sharp-learning.AssemblyInfoInputs.cache
+C:\Users\Workspace\Desktop\C#\c-sharp-learning\c-sharp-learning\obj\Debug\net6.0\c-sharp-learning.AssemblyInfo.cs
+C:\Users\Workspace\Desktop\C#\c-sharp-learning\c-sharp-learning\obj\Debug\net6.0\c-sharp-learning.csproj.CoreCompileInputs.cache
+C:\Users\Workspace\Desktop\C#\c-sharp-learning\c-sharp-learning\obj\Debug\net6.0\c-sharp-learning.dll
+C:\Users\Workspace\Desktop\C#\c-sharp-learning\c-sharp-learning\obj\Debug\net6.0\refint\c-sharp-learning.dll
+C:\Users\Workspace\Desktop\C#\c-sharp-learning\c-sharp-learning\obj\Debug\net6.0\c-sharp-learning.pdb
+C:\Users\Workspace\Desktop\C#\c-sharp-learning\c-sharp-learning\obj\Debug\net6.0\c-sharp-learning.genruntimeconfig.cache
+C:\Users\Workspace\Desktop\C#\c-sharp-learning\c-sharp-learning\obj\Debug\net6.0\ref\c-sharp-learning.dll

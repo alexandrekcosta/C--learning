@@ -1,0 +1,15 @@
+C:\Users\Workspace\Desktop\C#\SecondsTotal\SecondsTotal\bin\Debug\net6.0\SecondsTotal.exe
+C:\Users\Workspace\Desktop\C#\SecondsTotal\SecondsTotal\bin\Debug\net6.0\SecondsTotal.deps.json
+C:\Users\Workspace\Desktop\C#\SecondsTotal\SecondsTotal\bin\Debug\net6.0\SecondsTotal.runtimeconfig.json
+C:\Users\Workspace\Desktop\C#\SecondsTotal\SecondsTotal\bin\Debug\net6.0\SecondsTotal.dll
+C:\Users\Workspace\Desktop\C#\SecondsTotal\SecondsTotal\bin\Debug\net6.0\SecondsTotal.pdb
+C:\Users\Workspace\Desktop\C#\SecondsTotal\SecondsTotal\obj\Debug\net6.0\SecondsTotal.csproj.AssemblyReference.cache
+C:\Users\Workspace\Desktop\C#\SecondsTotal\SecondsTotal\obj\Debug\net6.0\SecondsTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workspace\Desktop\C#\SecondsTotal\SecondsTotal\obj\Debug\net6.0\SecondsTotal.AssemblyInfoInputs.cache
+C:\Users\Workspace\Desktop\C#\SecondsTotal\SecondsTotal\obj\Debug\net6.0\SecondsTotal.AssemblyInfo.cs
+C:\Users\Workspace\Desktop\C#\SecondsTotal\SecondsTotal\obj\Debug\net6.0\SecondsTotal.csproj.CoreCompileInputs.cache
+C:\Users\Workspace\Desktop\C#\SecondsTotal\SecondsTotal\obj\Debug\net6.0\SecondsTotal.dll
+C:\Users\Workspace\Desktop\C#\SecondsTotal\SecondsTotal\obj\Debug\net6.0\refint\SecondsTotal.dll
+C:\Users\Workspace\Desktop\C#\SecondsTotal\SecondsTotal\obj\Debug\net6.0\SecondsTotal.pdb
+C:\Users\Workspace\Desktop\C#\SecondsTotal\SecondsTotal\obj\Debug\net6.0\SecondsTotal.genruntimeconfig.cache
+C:\Users\Workspace\Desktop\C#\SecondsTotal\SecondsTotal\obj\Debug\net6.0\ref\SecondsTotal.dll
