@@ -1,0 +1,15 @@
+C:\Users\Workspace\Desktop\C#\TableSimple\TableSimple\bin\Debug\net6.0\TableSimple.exe
+C:\Users\Workspace\Desktop\C#\TableSimple\TableSimple\bin\Debug\net6.0\TableSimple.deps.json
+C:\Users\Workspace\Desktop\C#\TableSimple\TableSimple\bin\Debug\net6.0\TableSimple.runtimeconfig.json
+C:\Users\Workspace\Desktop\C#\TableSimple\TableSimple\bin\Debug\net6.0\TableSimple.dll
+C:\Users\Workspace\Desktop\C#\TableSimple\TableSimple\bin\Debug\net6.0\TableSimple.pdb
+C:\Users\Workspace\Desktop\C#\TableSimple\TableSimple\obj\Debug\net6.0\TableSimple.csproj.AssemblyReference.cache
+C:\Users\Workspace\Desktop\C#\TableSimple\TableSimple\obj\Debug\net6.0\TableSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workspace\Desktop\C#\TableSimple\TableSimple\obj\Debug\net6.0\TableSimple.AssemblyInfoInputs.cache
+C:\Users\Workspace\Desktop\C#\TableSimple\TableSimple\obj\Debug\net6.0\TableSimple.AssemblyInfo.cs
+C:\Users\Workspace\Desktop\C#\TableSimple\TableSimple\obj\Debug\net6.0\TableSimple.csproj.CoreCompileInputs.cache
+C:\Users\Workspace\Desktop\C#\TableSimple\TableSimple\obj\Debug\net6.0\TableSimple.dll
+C:\Users\Workspace\Desktop\C#\TableSimple\TableSimple\obj\Debug\net6.0\refint\TableSimple.dll
+C:\Users\Workspace\Desktop\C#\TableSimple\TableSimple\obj\Debug\net6.0\TableSimple.pdb
+C:\Users\Workspace\Desktop\C#\TableSimple\TableSimple\obj\Debug\net6.0\TableSimple.genruntimeconfig.cache
+C:\Users\Workspace\Desktop\C#\TableSimple\TableSimple\obj\Debug\net6.0\ref\TableSimple.dll
