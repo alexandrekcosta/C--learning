@@ -1,0 +1,15 @@
+C:\Users\Workspace\Desktop\C#\ComparativeOperations\ComparativeOperations\bin\Debug\net6.0\ComparativeOperations.exe
+C:\Users\Workspace\Desktop\C#\ComparativeOperations\ComparativeOperations\bin\Debug\net6.0\ComparativeOperations.deps.json
+C:\Users\Workspace\Desktop\C#\ComparativeOperations\ComparativeOperations\bin\Debug\net6.0\ComparativeOperations.runtimeconfig.json
+C:\Users\Workspace\Desktop\C#\ComparativeOperations\ComparativeOperations\bin\Debug\net6.0\ComparativeOperations.dll
+C:\Users\Workspace\Desktop\C#\ComparativeOperations\ComparativeOperations\bin\Debug\net6.0\ComparativeOperations.pdb
+C:\Users\Workspace\Desktop\C#\ComparativeOperations\ComparativeOperations\obj\Debug\net6.0\ComparativeOperations.csproj.AssemblyReference.cache
+C:\Users\Workspace\Desktop\C#\ComparativeOperations\ComparativeOperations\obj\Debug\net6.0\ComparativeOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workspace\Desktop\C#\ComparativeOperations\ComparativeOperations\obj\Debug\net6.0\ComparativeOperations.AssemblyInfoInputs.cache
+C:\Users\Workspace\Desktop\C#\ComparativeOperations\ComparativeOperations\obj\Debug\net6.0\ComparativeOperations.AssemblyInfo.cs
+C:\Users\Workspace\Desktop\C#\ComparativeOperations\ComparativeOperations\obj\Debug\net6.0\ComparativeOperations.csproj.CoreCompileInputs.cache
+C:\Users\Workspace\Desktop\C#\ComparativeOperations\ComparativeOperations\obj\Debug\net6.0\ComparativeOperations.dll
+C:\Users\Workspace\Desktop\C#\ComparativeOperations\ComparativeOperations\obj\Debug\net6.0\refint\ComparativeOperations.dll
+C:\Users\Workspace\Desktop\C#\ComparativeOperations\ComparativeOperations\obj\Debug\net6.0\ComparativeOperations.pdb
+C:\Users\Workspace\Desktop\C#\ComparativeOperations\ComparativeOperations\obj\Debug\net6.0\ComparativeOperations.genruntimeconfig.cache
+C:\Users\Workspace\Desktop\C#\ComparativeOperations\ComparativeOperations\obj\Debug\net6.0\ref\ComparativeOperations.dll

@@ -1,0 +1,15 @@
+C:\Users\Workspace\Desktop\C#\FindNumber\FindNumber\bin\Debug\net6.0\FindNumber.exe
+C:\Users\Workspace\Desktop\C#\FindNumber\FindNumber\bin\Debug\net6.0\FindNumber.deps.json
+C:\Users\Workspace\Desktop\C#\FindNumber\FindNumber\bin\Debug\net6.0\FindNumber.runtimeconfig.json
+C:\Users\Workspace\Desktop\C#\FindNumber\FindNumber\bin\Debug\net6.0\FindNumber.dll
+C:\Users\Workspace\Desktop\C#\FindNumber\FindNumber\bin\Debug\net6.0\FindNumber.pdb
+C:\Users\Workspace\Desktop\C#\FindNumber\FindNumber\obj\Debug\net6.0\FindNumber.csproj.AssemblyReference.cache
+C:\Users\Workspace\Desktop\C#\FindNumber\FindNumber\obj\Debug\net6.0\FindNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workspace\Desktop\C#\FindNumber\FindNumber\obj\Debug\net6.0\FindNumber.AssemblyInfoInputs.cache
+C:\Users\Workspace\Desktop\C#\FindNumber\FindNumber\obj\Debug\net6.0\FindNumber.AssemblyInfo.cs
+C:\Users\Workspace\Desktop\C#\FindNumber\FindNumber\obj\Debug\net6.0\FindNumber.csproj.CoreCompileInputs.cache
+C:\Users\Workspace\Desktop\C#\FindNumber\FindNumber\obj\Debug\net6.0\FindNumber.dll
+C:\Users\Workspace\Desktop\C#\FindNumber\FindNumber\obj\Debug\net6.0\refint\FindNumber.dll
+C:\Users\Workspace\Desktop\C#\FindNumber\FindNumber\obj\Debug\net6.0\FindNumber.pdb
+C:\Users\Workspace\Desktop\C#\FindNumber\FindNumber\obj\Debug\net6.0\FindNumber.genruntimeconfig.cache
+C:\Users\Workspace\Desktop\C#\FindNumber\FindNumber\obj\Debug\net6.0\ref\FindNumber.dll

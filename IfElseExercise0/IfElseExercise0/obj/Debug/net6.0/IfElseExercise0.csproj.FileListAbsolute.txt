@@ -1,0 +1,15 @@
+C:\Users\Workspace\Desktop\C#\IfElseExercise0\IfElseExercise0\bin\Debug\net6.0\IfElseExercise0.exe
+C:\Users\Workspace\Desktop\C#\IfElseExercise0\IfElseExercise0\bin\Debug\net6.0\IfElseExercise0.deps.json
+C:\Users\Workspace\Desktop\C#\IfElseExercise0\IfElseExercise0\bin\Debug\net6.0\IfElseExercise0.runtimeconfig.json
+C:\Users\Workspace\Desktop\C#\IfElseExercise0\IfElseExercise0\bin\Debug\net6.0\IfElseExercise0.dll
+C:\Users\Workspace\Desktop\C#\IfElseExercise0\IfElseExercise0\bin\Debug\net6.0\IfElseExercise0.pdb
+C:\Users\Workspace\Desktop\C#\IfElseExercise0\IfElseExercise0\obj\Debug\net6.0\IfElseExercise0.csproj.AssemblyReference.cache
+C:\Users\Workspace\Desktop\C#\IfElseExercise0\IfElseExercise0\obj\Debug\net6.0\IfElseExercise0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workspace\Desktop\C#\IfElseExercise0\IfElseExercise0\obj\Debug\net6.0\IfElseExercise0.AssemblyInfoInputs.cache
+C:\Users\Workspace\Desktop\C#\IfElseExercise0\IfElseExercise0\obj\Debug\net6.0\IfElseExercise0.AssemblyInfo.cs
+C:\Users\Workspace\Desktop\C#\IfElseExercise0\IfElseExercise0\obj\Debug\net6.0\IfElseExercise0.csproj.CoreCompileInputs.cache
+C:\Users\Workspace\Desktop\C#\IfElseExercise0\IfElseExercise0\obj\Debug\net6.0\IfElseExercise0.dll
+C:\Users\Workspace\Desktop\C#\IfElseExercise0\IfElseExercise0\obj\Debug\net6.0\refint\IfElseExercise0.dll
+C:\Users\Workspace\Desktop\C#\IfElseExercise0\IfElseExercise0\obj\Debug\net6.0\IfElseExercise0.pdb
+C:\Users\Workspace\Desktop\C#\IfElseExercise0\IfElseExercise0\obj\Debug\net6.0\IfElseExercise0.genruntimeconfig.cache
+C:\Users\Workspace\Desktop\C#\IfElseExercise0\IfElseExercise0\obj\Debug\net6.0\ref\IfElseExercise0.dll

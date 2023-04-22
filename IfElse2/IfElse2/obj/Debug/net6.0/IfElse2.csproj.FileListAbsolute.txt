@@ -1,0 +1,15 @@
+C:\Users\Workspace\Desktop\C#\IfElse2\IfElse2\bin\Debug\net6.0\IfElse2.exe
+C:\Users\Workspace\Desktop\C#\IfElse2\IfElse2\bin\Debug\net6.0\IfElse2.deps.json
+C:\Users\Workspace\Desktop\C#\IfElse2\IfElse2\bin\Debug\net6.0\IfElse2.runtimeconfig.json
+C:\Users\Workspace\Desktop\C#\IfElse2\IfElse2\bin\Debug\net6.0\IfElse2.dll
+C:\Users\Workspace\Desktop\C#\IfElse2\IfElse2\bin\Debug\net6.0\IfElse2.pdb
+C:\Users\Workspace\Desktop\C#\IfElse2\IfElse2\obj\Debug\net6.0\IfElse2.csproj.AssemblyReference.cache
+C:\Users\Workspace\Desktop\C#\IfElse2\IfElse2\obj\Debug\net6.0\IfElse2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workspace\Desktop\C#\IfElse2\IfElse2\obj\Debug\net6.0\IfElse2.AssemblyInfoInputs.cache
+C:\Users\Workspace\Desktop\C#\IfElse2\IfElse2\obj\Debug\net6.0\IfElse2.AssemblyInfo.cs
+C:\Users\Workspace\Desktop\C#\IfElse2\IfElse2\obj\Debug\net6.0\IfElse2.csproj.CoreCompileInputs.cache
+C:\Users\Workspace\Desktop\C#\IfElse2\IfElse2\obj\Debug\net6.0\IfElse2.dll
+C:\Users\Workspace\Desktop\C#\IfElse2\IfElse2\obj\Debug\net6.0\refint\IfElse2.dll
+C:\Users\Workspace\Desktop\C#\IfElse2\IfElse2\obj\Debug\net6.0\IfElse2.pdb
+C:\Users\Workspace\Desktop\C#\IfElse2\IfElse2\obj\Debug\net6.0\IfElse2.genruntimeconfig.cache
+C:\Users\Workspace\Desktop\C#\IfElse2\IfElse2\obj\Debug\net6.0\ref\IfElse2.dll

@@ -1,0 +1,15 @@
+C:\Users\Workspace\Desktop\C#\LogicalOperations\LogicalOperations\obj\Debug\net6.0\LogicalOperations.csproj.AssemblyReference.cache
+C:\Users\Workspace\Desktop\C#\LogicalOperations\LogicalOperations\obj\Debug\net6.0\LogicalOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workspace\Desktop\C#\LogicalOperations\LogicalOperations\obj\Debug\net6.0\LogicalOperations.AssemblyInfoInputs.cache
+C:\Users\Workspace\Desktop\C#\LogicalOperations\LogicalOperations\obj\Debug\net6.0\LogicalOperations.AssemblyInfo.cs
+C:\Users\Workspace\Desktop\C#\LogicalOperations\LogicalOperations\obj\Debug\net6.0\LogicalOperations.csproj.CoreCompileInputs.cache
+C:\Users\Workspace\Desktop\C#\LogicalOperations\LogicalOperations\bin\Debug\net6.0\LogicalOperations.exe
+C:\Users\Workspace\Desktop\C#\LogicalOperations\LogicalOperations\bin\Debug\net6.0\LogicalOperations.deps.json
+C:\Users\Workspace\Desktop\C#\LogicalOperations\LogicalOperations\bin\Debug\net6.0\LogicalOperations.runtimeconfig.json
+C:\Users\Workspace\Desktop\C#\LogicalOperations\LogicalOperations\bin\Debug\net6.0\LogicalOperations.dll
+C:\Users\Workspace\Desktop\C#\LogicalOperations\LogicalOperations\bin\Debug\net6.0\LogicalOperations.pdb
+C:\Users\Workspace\Desktop\C#\LogicalOperations\LogicalOperations\obj\Debug\net6.0\LogicalOperations.dll
+C:\Users\Workspace\Desktop\C#\LogicalOperations\LogicalOperations\obj\Debug\net6.0\refint\LogicalOperations.dll
+C:\Users\Workspace\Desktop\C#\LogicalOperations\LogicalOperations\obj\Debug\net6.0\LogicalOperations.pdb
+C:\Users\Workspace\Desktop\C#\LogicalOperations\LogicalOperations\obj\Debug\net6.0\LogicalOperations.genruntimeconfig.cache
+C:\Users\Workspace\Desktop\C#\LogicalOperations\LogicalOperations\obj\Debug\net6.0\ref\LogicalOperations.dll
