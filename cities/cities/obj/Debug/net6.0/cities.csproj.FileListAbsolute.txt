@@ -1,0 +1,15 @@
+C:\Users\Workspace\Desktop\C#\cities\cities\bin\Debug\net6.0\cities.exe
+C:\Users\Workspace\Desktop\C#\cities\cities\bin\Debug\net6.0\cities.deps.json
+C:\Users\Workspace\Desktop\C#\cities\cities\bin\Debug\net6.0\cities.runtimeconfig.json
+C:\Users\Workspace\Desktop\C#\cities\cities\bin\Debug\net6.0\cities.dll
+C:\Users\Workspace\Desktop\C#\cities\cities\bin\Debug\net6.0\cities.pdb
+C:\Users\Workspace\Desktop\C#\cities\cities\obj\Debug\net6.0\cities.csproj.AssemblyReference.cache
+C:\Users\Workspace\Desktop\C#\cities\cities\obj\Debug\net6.0\cities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workspace\Desktop\C#\cities\cities\obj\Debug\net6.0\cities.AssemblyInfoInputs.cache
+C:\Users\Workspace\Desktop\C#\cities\cities\obj\Debug\net6.0\cities.AssemblyInfo.cs
+C:\Users\Workspace\Desktop\C#\cities\cities\obj\Debug\net6.0\cities.csproj.CoreCompileInputs.cache
+C:\Users\Workspace\Desktop\C#\cities\cities\obj\Debug\net6.0\cities.dll
+C:\Users\Workspace\Desktop\C#\cities\cities\obj\Debug\net6.0\refint\cities.dll
+C:\Users\Workspace\Desktop\C#\cities\cities\obj\Debug\net6.0\cities.pdb
+C:\Users\Workspace\Desktop\C#\cities\cities\obj\Debug\net6.0\cities.genruntimeconfig.cache
+C:\Users\Workspace\Desktop\C#\cities\cities\obj\Debug\net6.0\ref\cities.dll
