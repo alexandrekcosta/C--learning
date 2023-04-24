@@ -1,0 +1,15 @@
+C:\Users\Workspace\Desktop\C#\PercentTest\PercentTest\bin\Debug\net6.0\PercentTest.exe
+C:\Users\Workspace\Desktop\C#\PercentTest\PercentTest\bin\Debug\net6.0\PercentTest.deps.json
+C:\Users\Workspace\Desktop\C#\PercentTest\PercentTest\bin\Debug\net6.0\PercentTest.runtimeconfig.json
+C:\Users\Workspace\Desktop\C#\PercentTest\PercentTest\bin\Debug\net6.0\PercentTest.dll
+C:\Users\Workspace\Desktop\C#\PercentTest\PercentTest\bin\Debug\net6.0\PercentTest.pdb
+C:\Users\Workspace\Desktop\C#\PercentTest\PercentTest\obj\Debug\net6.0\PercentTest.csproj.AssemblyReference.cache
+C:\Users\Workspace\Desktop\C#\PercentTest\PercentTest\obj\Debug\net6.0\PercentTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workspace\Desktop\C#\PercentTest\PercentTest\obj\Debug\net6.0\PercentTest.AssemblyInfoInputs.cache
+C:\Users\Workspace\Desktop\C#\PercentTest\PercentTest\obj\Debug\net6.0\PercentTest.AssemblyInfo.cs
+C:\Users\Workspace\Desktop\C#\PercentTest\PercentTest\obj\Debug\net6.0\PercentTest.csproj.CoreCompileInputs.cache
+C:\Users\Workspace\Desktop\C#\PercentTest\PercentTest\obj\Debug\net6.0\PercentTest.dll
+C:\Users\Workspace\Desktop\C#\PercentTest\PercentTest\obj\Debug\net6.0\refint\PercentTest.dll
+C:\Users\Workspace\Desktop\C#\PercentTest\PercentTest\obj\Debug\net6.0\PercentTest.pdb
+C:\Users\Workspace\Desktop\C#\PercentTest\PercentTest\obj\Debug\net6.0\PercentTest.genruntimeconfig.cache
+C:\Users\Workspace\Desktop\C#\PercentTest\PercentTest\obj\Debug\net6.0\ref\PercentTest.dll
